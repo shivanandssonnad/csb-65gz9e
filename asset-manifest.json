@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://shivanandssonnad.github.io/csb-65gz9e/static/css/main.e6b63e7b.chunk.css",
+    "main.js": "https://shivanandssonnad.github.io/csb-65gz9e/static/js/main.327db89d.chunk.js",
+    "main.js.map": "https://shivanandssonnad.github.io/csb-65gz9e/static/js/main.327db89d.chunk.js.map",
+    "runtime-main.js": "https://shivanandssonnad.github.io/csb-65gz9e/static/js/runtime-main.c1e7c351.js",
+    "runtime-main.js.map": "https://shivanandssonnad.github.io/csb-65gz9e/static/js/runtime-main.c1e7c351.js.map",
+    "static/js/2.68892113.chunk.js": "https://shivanandssonnad.github.io/csb-65gz9e/static/js/2.68892113.chunk.js",
+    "static/js/2.68892113.chunk.js.map": "https://shivanandssonnad.github.io/csb-65gz9e/static/js/2.68892113.chunk.js.map",
+    "index.html": "https://shivanandssonnad.github.io/csb-65gz9e/index.html",
+    "static/css/main.e6b63e7b.chunk.css.map": "https://shivanandssonnad.github.io/csb-65gz9e/static/css/main.e6b63e7b.chunk.css.map",
+    "static/js/2.68892113.chunk.js.LICENSE.txt": "https://shivanandssonnad.github.io/csb-65gz9e/static/js/2.68892113.chunk.js.LICENSE.txt",
+    "static/media/icons.73e97880.svg": "https://shivanandssonnad.github.io/csb-65gz9e/static/media/icons.73e97880.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1e7c351.js",
+    "static/js/2.68892113.chunk.js",
+    "static/css/main.e6b63e7b.chunk.css",
+    "static/js/main.327db89d.chunk.js"
+  ]
+}
